@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<beans>
+    <bean id="robot" class="testBean.Robot">
+        <property name="hand" value="testBean.Hand"/>
+        <property name="mouth" value="testBean.Mouth"/>
+    </bean>
+</beans>
