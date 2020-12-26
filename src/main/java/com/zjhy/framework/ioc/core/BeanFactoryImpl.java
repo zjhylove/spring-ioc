@@ -104,7 +104,7 @@ public class BeanFactoryImpl implements BeanFactory {
             }
             return BeanUtils.instanceBean(beanClz, beanClz.getConstructor(parameterTypes), objs.toArray());
         }
-        return BeanUtils.instanceBean(beanClz, null, null);
+        return BeanUtils.instanceBean(beanClz, null);
     }
 
 
