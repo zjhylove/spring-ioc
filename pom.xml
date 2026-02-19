@@ -13,7 +13,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cglib.version>3.2.6</cglib.version>
-        <commons-lang3.version>3.1</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <dom4j.version>1.6.1</dom4j.version>
     </properties>
 
